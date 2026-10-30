@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "version": 2612,
+  "offsets": {
+    "World": "0x2567DB0",
+    "ReplayInterface": "0x1F77EF0",
+    "ViewPort": "0x1FD8570",
+    "Camera": "0x1FD9418",
+    "bIsPlayerAiming": "0x2C33DB0",
+    "PlayerAimingAt": "0x1FE6960",
+    "HandleBullet": "0xFF340C",
+    "BlipList": "0x1FDDD20",
+    "EntityType": "0x10B8",
+    "Armor": "0x1530",
+    "BoneManager": "0x430",
+    "PlayerInfo": "0x10C8",
+    "PlayerNetID": "0x88",
+    "WeaponManager": "0x10D8",
+    "FragInsNmGTA": "0x1450",
+    "ConfigFlags": "0x1464",
+    "MaxHealth": "0x2A0",
+    "LastVehicle": "0xD30",
+    "Driver": "0xC68",
+    "DoorLock": "0x1390",
+    "Stamina": "0xCF4",
+    "VisibleFlag": "0x147C",
+    "framecount": "0x2F23DBC"
+  }
+}
